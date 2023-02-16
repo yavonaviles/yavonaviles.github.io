@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+}
+a {
+    color:deeppink
+}
+.pink {
+    color: deeppink;
+}
+.aqua {
+    color:rosybrown
+}
+.green {
+    border: none;
+    color:cadetblue;
+    background-color: cadetblue;
+    height: 15px;
+   }
+   
