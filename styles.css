@@ -1,3 +1,11 @@
+ @font-face {
+    font-family: 'pacificoregular';
+    src: url('./pacifico-regular-webfont.woff2') format('woff2'),
+         url('./pacifico-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 body {
     background-color: whitesmoke;
 }
@@ -16,11 +24,3 @@ a {
     background-color: cadetblue;
     height: 15px;
    }
-   @font-face {
-    font-family: 'pacificoregular';
-    src: url('./pacifico-regular-webfont.woff2') format('woff2'),
-         url('./pacifico-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
