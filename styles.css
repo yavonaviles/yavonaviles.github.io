@@ -24,3 +24,12 @@ a {
     background-color: cadetblue;
     height: 15px;
    }
+}
+.city {
+    color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+}
+.info {
+    font-family: 'pacificoregular';
+}
+
